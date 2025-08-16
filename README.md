@@ -91,7 +91,7 @@ Librerías utilizadas:
 ### 3. Ejecutar el notebook
 
 1. Abrir `TelecomX_LATAM_2.ipynb` con Google Colab, Jupyter Notebook o VSCode.
-2. Verificar que el archivo `TelecomX_Base_de_datos_bool.csv` esté en la misma ruta.
+2. Verificar que el archivo `TelecomX_Data_Base.csv` esté en la misma ruta.
 3. Ejecutar celda por celda siguiendo la guía de iconos del encabezado del cuaderno.
 
 ---
