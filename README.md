@@ -76,7 +76,7 @@ Se obtuvo la importancia de variables usando:
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu_usuario/TelecomX_Churn.git
+git clone https://github.com/MigXDev/CS_Datos_I_DESAFIO_3.git
 ````
 
 ### 2. Instalar requisitos
@@ -98,11 +98,12 @@ Librerías utilizadas:
 
 ## 📌 Autor
 
-> Challenge Alura + Oracle Next Education
+> Challenge Alura + Oracle
+> Programa ONE Next Education
 > 
 > Desarrollado por **Miguel Angel Ajhuacho** – Analista Junior de Machine Learning
 > 
-> Año: 2024
+> Año: 2025
 
 ---
 
