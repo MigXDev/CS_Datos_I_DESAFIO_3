@@ -99,9 +99,10 @@ Librerías utilizadas:
 ## 📌 Autor
 
 > Challenge Alura + Oracle
+>
 > Programa ONE Next Education
 > 
-> Desarrollado por **Miguel Angel Ajhuacho** – Analista Junior de Machine Learning
+> Desarrollado por **Miguel Angel Ajhuacho** – Analista Junior de Ciencia de Datos
 > 
 > Año: 2025
 
